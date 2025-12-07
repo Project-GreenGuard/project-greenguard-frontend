@@ -89,7 +89,7 @@ const ForestShield = () => {
               </div>
               <div className="forestshield-buttons">
                 <motion.a
-                  href="https://github.com/Project-GreenGuard/forestshield-frontend"
+                  href="http://forestshield-frontend-466650003123.s3-website-us-east-1.amazonaws.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn btn-primary"
