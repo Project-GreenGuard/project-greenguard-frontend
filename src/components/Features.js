@@ -6,37 +6,37 @@ import './Features.css';
 
 const features = [
   {
-    icon: '/icons/iot-monitoring.svg',
+    icon: '/icons/iot.png',
     title: 'Real-Time IoT Monitoring',
     description:
       'ESP32 sensors deployed across forest areas continuously collect temperature, humidity, and environmental data, transmitting information every 30 seconds for immediate analysis.',
   },
   {
-    icon: '/icons/nasa-integration.svg',
+    icon: '/icons/nasa.png',
     title: 'NASA FIRMS Integration',
     description:
       "Direct integration with NASA's Fire Information for Resource Management System provides satellite-based wildfire detection and proximity analysis.",
   },
   {
-    icon: '/icons/ai-assessment.svg',
+    icon: '/icons/ai.png',
     title: 'AI-Powered Risk Assessment',
     description:
       'Advanced algorithms analyze multiple data sources to calculate real-time wildfire risk scores, combining sensor data, fire proximity, and environmental conditions.',
   },
   {
-    icon: '/icons/dashboard.svg',
+    icon: '/icons/dashboard.png',
     title: 'Interactive Dashboard',
     description:
       'Comprehensive web-based visualization with interactive maps, real-time sensor status, risk heatmaps, and detailed analytics for forest management teams.',
   },
   {
-    icon: '/icons/warning-system.svg',
+    icon: '/icons/warning.png',
     title: 'Early Warning System',
     description:
       'Automated alerts and notifications when risk levels exceed thresholds, enabling rapid response and proactive fire prevention measures.',
   },
   {
-    icon: '/icons/cloud-infrastructure.svg',
+    icon: '/icons/cloud.png',
     title: 'Cloud Infrastructure',
     description:
       'Scalable AWS-based architecture ensures reliable data processing, storage, and access from anywhere, with automatic scaling to handle peak loads.',
