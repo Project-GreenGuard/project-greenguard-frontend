@@ -65,7 +65,7 @@ const ForestShield = () => {
               <div className="badge">Our Flagship Product</div>
               <h2 className="forestshield-title">ForestShield</h2>
               <p className="forestshield-description">
-                A comprehensive AI-driven wildfire response system that combines
+                A smart wildfire response system that fuses
                 real-time IoT sensor data, NASA satellite fire detection, and
                 intelligent risk scoring to protect forests across Canada.
               </p>
