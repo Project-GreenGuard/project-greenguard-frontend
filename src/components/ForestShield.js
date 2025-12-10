@@ -65,7 +65,7 @@ const ForestShield = () => {
               <div className="badge">Our Flagship Product</div>
               <h2 className="forestshield-title">ForestShield</h2>
               <p className="forestshield-description">
-                A comprehensive AI-driven wildfire response system that combines
+                A smart wildfire response system that fuses
                 real-time IoT sensor data, NASA satellite fire detection, and
                 intelligent risk scoring to protect forests across Canada.
               </p>
@@ -89,7 +89,7 @@ const ForestShield = () => {
               </div>
               <div className="forestshield-buttons">
                 <motion.a
-                  href="https://github.com/Project-GreenGuard/forestshield-frontend"
+                  href="http://forestshield-frontend-466650003123.s3-website-us-east-1.amazonaws.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn btn-primary"
